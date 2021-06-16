@@ -20,4 +20,5 @@ uma linha distinta e o final da entrada de dados é sinalizado por três zeros (
 Saída
 
 Para cada conjunto de três números de entrada, imprima uma linha de números especificando a ordem na qual 
-as pessoas são escolhidas. Liste o par escolhido partindo da pessoa escolhida pelo contador do sentido horário. Os pares sucessivos são separados por vírgula (mas não deverá haver vírgula após o último escolhido).
+as pessoas são escolhidas. Liste o par escolhido partindo da pessoa escolhida pelo contador do sentido horário.
+Os pares sucessivos são separados por vírgula (mas não deverá haver vírgula após o último escolhido).
